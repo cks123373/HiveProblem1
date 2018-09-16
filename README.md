@@ -14,4 +14,4 @@ Found 1 items
 5. Using Apache Hive queries, list symbol on only EQ series with highest TOTTRQTY.
 
 
-chandan
+
