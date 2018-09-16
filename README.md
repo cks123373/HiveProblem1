@@ -12,3 +12,6 @@ Found 1 items
 3. Using Apache Hive queries, list symbol on each series with highest TOTTRDVAL. Copy results to local filesystem.
 4. Using Apache Hive queries, list symbol on each series with highest TOTTRQTY. Check the results on Hadoop filesystem using cat command.
 5. Using Apache Hive queries, list symbol on only EQ series with highest TOTTRQTY.
+
+
+chandan
